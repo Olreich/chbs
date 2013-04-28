@@ -1,4 +1,10 @@
 #################
+## Sublime Text
+#################
+*.sublime-project
+*.sublime-workspace
+
+#################
 ## Eclipse
 #################
 
@@ -126,6 +132,8 @@ Thumbs.db
 # Folder config file
 Desktop.ini
 
+# Executables
+*.exe
 
 #############
 ## Python
